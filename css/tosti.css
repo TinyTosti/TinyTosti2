@@ -9,3 +9,6 @@ header{
 header h1{
 	color: yellow;
 }
+header img{
+	border-radius: 150px;
+}
